@@ -3,7 +3,7 @@ Easy to use Custom DrawerLayout, that slides and resizes the whole screen conten
 
 Following are the steps to use this library
 
-1. Add this "maven url 'https://jitpack.io'" to the repositories section of project level build.gradle.</br>
+1. Add this "maven{url 'https://jitpack.io'}" to the repositories section of project level build.gradle.</br>
 2. Add dependency "com.github.saxenautkarsh:SlidingContentNavView-android:0.1.0" to dependencies in app level build.gradle</br>
 (Or just follow the instructions given here https://jitpack.io/#saxenautkarsh/SlidingContentNavView-android/0.1.0) </br>
 
